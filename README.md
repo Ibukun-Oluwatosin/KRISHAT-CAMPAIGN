@@ -14,7 +14,7 @@ Campaign Optimization:Conduct a deeper analysis of high and low-performing campa
 
 Analyze the strategies employed by competitors in their successful campaigns. This might improve overall performance. Try to focus on building consistent performance across campaigns, drawing lessons from competitors' approaches.
 
-([KRISHAT CAMPAIGN SNAPHOT.png] (https://github.com/Ibukun-Oluwatosin/KRISHAT-CAMPAIGN/blob/main/KRISHAT%20CAMPAIGN%20SNAPHOT.png))
+[KRISHAT CAMPAIGN SNAPHOT.png] (https://github.com/Ibukun-Oluwatosin/KRISHAT-CAMPAIGN/blob/main/KRISHAT%20CAMPAIGN%20SNAPHOT.png)
 
 ## Data Source
 
