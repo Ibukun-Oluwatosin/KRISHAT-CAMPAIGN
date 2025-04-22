@@ -12,7 +12,7 @@ This repository contains a dashboard created to analyze and visualize krishat ma
 - **Key Findings**:
 Campaign Optimization:</b> Conduct a deeper analysis of high and low-performing campaigns to understand the drivers behind the success or failure.Analyze the strategies employed by competitors in their successful campaigns. This might improve overall performance. Try to focus on building consistent performance across campaigns, drawing lessons from competitors' approaches.
 
-![CUSTOMER ANALYSIS DASHBOARD](https://github.com/Ibukun-Oluwatosin/save-smart/blob/main/customer's%20profile)
+![CUSTOMER ANALYSIS DASHBOARD](KRISHAT CAMPAIGN SNAPHOT.png)
 
 ## Data Source
 
