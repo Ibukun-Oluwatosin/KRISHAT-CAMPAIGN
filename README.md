@@ -10,9 +10,11 @@ This repository contains a dashboard created to analyze and visualize krishat ma
 - **Tools Used**:excel, looker studio
   
 - **Key Findings**:
-Campaign Optimization:</b> Conduct a deeper analysis of high and low-performing campaigns to understand the drivers behind the success or failure.Analyze the strategies employed by competitors in their successful campaigns. This might improve overall performance. Try to focus on building consistent performance across campaigns, drawing lessons from competitors' approaches.
+Campaign Optimization:Conduct a deeper analysis of high and low-performing campaigns to understand the drivers behind the success or failure.
 
-![CUSTOMER ANALYSIS DASHBOARD](KRISHAT CAMPAIGN SNAPHOT.png)
+Analyze the strategies employed by competitors in their successful campaigns. This might improve overall performance. Try to focus on building consistent performance across campaigns, drawing lessons from competitors' approaches.
+
+([KRISHAT CAMPAIGN SNAPHOT.png](https://github.com/Ibukun-Oluwatosin/KRISHAT-CAMPAIGN/blob/main/KRISHAT%20CAMPAIGN%20SNAPHOT.png))
 
 ## Data Source
 
