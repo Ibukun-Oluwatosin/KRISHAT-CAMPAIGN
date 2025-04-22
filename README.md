@@ -29,4 +29,5 @@ The data used for this analysis is contained in the file SESSION.
 
 1. **Clone the repository**:
    ```sh
-   git clone ((https://github.com/Ibukun-Oluwatosin/save-smart))
+   git clone [(([https://github.com/Ibukun-Oluwatosin/save-smart](https://github.com/Ibukun-Oluwatosin/KRISHAT-CAMPAIGN)))
+](https://github.com/Ibukun-Oluwatosin/KRISHAT-CAMPAIGN)
